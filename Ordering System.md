@@ -6,9 +6,10 @@
 
 * Version: 1.0   
 
-* Vulnerable file:Product_model.php  
-![iamge]()  
+* Vulnerable file: ordering\admin\products\edit.php  
+![image](https://github.com/BigTiger2020/Ordering-System/blob/main/upfile.png)  
 * Remote Code Execution:  
-![iamge]()    
+![image](https://github.com/BigTiger2020/Ordering-System/blob/main/upfile-1.png) 
+![image](https://github.com/BigTiger2020/Ordering-System/blob/main/rce.png)    
 * Get shell:  
-![iamge]() 
+![image](https://github.com/BigTiger2020/Ordering-System/blob/main/shell.png) 
